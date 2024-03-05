@@ -6,6 +6,6 @@ frontend/build/
 
 # Environment files
 .env
-
+config.js
 # System files
 .DS_Store

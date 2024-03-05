@@ -1,0 +1,10 @@
+runtime: nodejs
+env: flex
+
+runtime_config:
+  nodejs_version: 14
+
+resources:
+  cpu: 1
+  memory_gb: 0.5
+  disk_size_gb: 10
